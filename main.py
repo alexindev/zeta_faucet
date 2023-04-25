@@ -38,7 +38,7 @@ if __name__ == '__main__':
     chain = None
 
     while True:
-        chain = int(input('Chain: 1 - bcs, 2 - mumbai, 3 - goerly\n>>> '))
+        chain = int(input('Chain: 1 - bcs, 2 - mumbai, 3 - goerli\n>>> '))
         if chain == 1:
             chain = 'bsc'
 
