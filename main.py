@@ -47,7 +47,7 @@ if __name__ == '__main__':
             chain = 'mumbai'
             break
         elif chain == 3:
-            chain = 'goerly'
+            chain = 'goerli'
             break
         else:
             print('Select (1, 2, 3)')
